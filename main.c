@@ -11,7 +11,6 @@ double Delta(){
   return Dx;
 }
 
-
 double retangulo(){
   double base = Delta();
   for(int i = 1; i <= n; i++){
